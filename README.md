@@ -27,4 +27,4 @@ The source code is available on github: <a href='https://github.com/badlands-mod
 
 ## Read the doc!
 
-Installation of the code requires several dependencies and it is more than encouraged to go through the manual at first. 
+Installation of the code requires several dependencies and it is more than encouraged to go through the <a href='https://github.com/badlands-model/Badlands-doc/blob/master/manual.pdf'>manual<a/> at first. 
