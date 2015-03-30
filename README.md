@@ -23,4 +23,8 @@ The code is conceived as an open-source project, and is an ideal tool for both *
 
 ## Getting the source code
 
-The code is available on github: <a href='https://github.com/badlands-model/Badlands'>here<a/>
+The source code is available on github: <a href='https://github.com/badlands-model/Badlands'>here<a/>
+
+## Read the doc!
+
+Installation of the code requires several dependencies and it is more than encouraged to go through the manual at first. 
