@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BADLANDS:input xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xmlns:BALAD="http://bibucket.com/git/xsd/XSDBADLANDS" xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:BADLANDS="http://bibucket.com/git/xsd/XSDBADLANDS" xmlns:xi="http://www.w3.org/2001/XInclude"
 	xsi:schemaLocation="http://bibucket.com/git/xsd/XSDBADLANDS
 	bibucket.com/git/xsd/XSDBADLANDS/schema-BADLANDS.xsd">
 
