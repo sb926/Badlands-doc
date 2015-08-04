@@ -10,20 +10,20 @@
 		<delaunay_angle>25</delaunay_angle>
 		<outlet>1</outlet>
 	</struct_geometry>
-	
+
 	<struct_time>
 		<time_start>0.</time_start>
 		<time_end>500000.</time_end>
 		<display_interval>5000.</display_interval>
 	</struct_time>
 
-	<struct_geodyn>  
+	<struct_geodyn>
       <interval_nb>1</interval_nb>
       <disp>
         <disp_start>0.</disp_start>
         <disp_end>500000.0</disp_end>
         <disp_file>data/uplift.csv</disp_file>
-      </disp> 
+      </disp>
     </struct_geodyn>
 
 	<struct_rainfall>
@@ -31,14 +31,15 @@
       <rain>
         <rain_start>0</rain_start>
         <rain_end>500000</rain_end>
-        <rain_file>data/rain.csv</rain_file>
-      </rain> 
+        <rain_value>1.0</rain_value>
+				<!--rain_file>rain.csv</rain_file-->
+      </rain>
 	</struct_rainfall>
 
 	<struct_detachment>
 		<spl_m>0.5</spl_m>
-    	<spl_n>1.0</spl_n>
-    	<Cerodibility>1.e-5</Cerodibility>
+    <spl_n>1.0</spl_n>
+    <Cerodibility>1.e-5</Cerodibility>
 	</struct_detachment>
 
 	<struct_linear_diff>
