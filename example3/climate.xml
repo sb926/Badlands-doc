@@ -21,21 +21,21 @@
 		<boundE>0</boundE>
 		<boundW>0</boundW>
 	</struct_geometry>
-	
+
 	<struct_time>
 		<time_start>0.</time_start>
 		<time_end>50000000.</time_end>
 		<display_interval>50000.</display_interval>
-		<limit_step>1</limit_step>
+		<!--limit_step>1</limit_step-->
 	</struct_time>
 
-	<struct_geodyn>  
+	<struct_geodyn>
       <interval_nb>1</interval_nb>
       <disp>
         <disp_start>0</disp_start>
         <disp_end>50000000.0</disp_end>
         <disp_file>data/climate_uplift.csv</disp_file>
-      </disp> 
+      </disp>
     </struct_geodyn>
 
 	<struct_rainfall>
@@ -44,12 +44,12 @@
         <rain_start>0</rain_start>
         <rain_end>15000000</rain_end>
         <rain_file>data/climate_rain_uniform.csv</rain_file>
-      </rain> 
+      </rain>
       <rain>
         <rain_start>15000000</rain_start>
         <rain_end>50000000</rain_end>
         <rain_file>data/climate_rain_gradient.csv</rain_file>
-      </rain> 
+      </rain>
 	</struct_rainfall>
 
 	<struct_detachment>
@@ -60,8 +60,8 @@
 	</struct_detachment>
 
 	<struct_linear_diff>
-		<coef_linear_aerial>1.</coef_linear_aerial>
-		<coef_linear_marine>1.</coef_linear_marine>
+		<coef_linear_aerial>0.5</coef_linear_aerial>
+		<coef_linear_marine>0.5</coef_linear_marine>
 	</struct_linear_diff>
 
 	<output_directory>climate</output_directory>

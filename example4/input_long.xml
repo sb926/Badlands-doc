@@ -16,54 +16,51 @@
 			<ymax>257000</ymax>
 			<r_area>1406250</r_area>
 		</ra>
-		<fill_height>5</fill_height>
-		<facies>1</facies>
 	</struct_geometry>
-	
+
 	<struct_time>
 		<time_start>50000.</time_start>
 		<time_end>500000.</time_end>
 		<display_interval>10000.</display_interval>
-    	<layer_time>5000.0</layer_time>
 	</struct_time>
 
 	<struct_ocean>
-    	<ocean_file>data/sea.sl</ocean_file>
-  	</struct_ocean>
+    <ocean_file>data/sea.sl</ocean_file>
+  </struct_ocean>
 
-	<struct_geodyn>  
-      <interval_nb>6</interval_nb>
-      <disp>
-		<disp_start>55740</disp_start>
-		<disp_end>167220</disp_end>
-		<disp_file>data/uplift1.csv</disp_file>
+	<struct_geodyn>
+    <interval_nb>6</interval_nb>
+    <disp>
+			<disp_start>55740</disp_start>
+			<disp_end>167220</disp_end>
+			<disp_file>data/uplift1.csv</disp_file>
 	  </disp>
 	  <disp>
-		<disp_start>167220</disp_start>
-		<disp_end>222959</disp_end>
-		<disp_file>data/uplift2.csv</disp_file>
-  	  </disp>
+			<disp_start>167220</disp_start>
+			<disp_end>222959</disp_end>
+			<disp_file>data/uplift2.csv</disp_file>
+  	</disp>
 	  <disp>
-		<disp_start>222959</disp_start>
-		<disp_end>278699</disp_end>
-		<disp_file>data/uplift3.csv</disp_file>
-  	  </disp>
+			<disp_start>222959</disp_start>
+			<disp_end>278699</disp_end>
+			<disp_file>data/uplift3.csv</disp_file>
+  	</disp>
 	  <disp>
-		<disp_start>278699</disp_start>
-		<disp_end>377419</disp_end>
-		<disp_file>data/uplift4.csv</disp_file>
+			<disp_start>278699</disp_start>
+			<disp_end>377419</disp_end>
+			<disp_file>data/uplift4.csv</disp_file>
 	  </disp>
 	  <disp>
-		<disp_start>377419</disp_start>
-		<disp_end>463860</disp_end>
-		<disp_file>data/uplift5.csv</disp_file>
+			<disp_start>377419</disp_start>
+			<disp_end>463860</disp_end>
+			<disp_file>data/uplift5.csv</disp_file>
 	  </disp>
 	  <disp>
-		<disp_start>463860</disp_start>
-		<disp_end>500000</disp_end>
-		<disp_file>data/uplift6.csv</disp_file>
+			<disp_start>463860</disp_start>
+			<disp_end>500000</disp_end>
+			<disp_file>data/uplift6.csv</disp_file>
 	  </disp>
-    </struct_geodyn>
+  </struct_geodyn>
 
 	<struct_rainfall>
       <rain_nb>1</rain_nb>
@@ -71,21 +68,14 @@
         <rain_start>50000</rain_start>
         <rain_end>500000</rain_end>
         <rain_file>data/rain.csv</rain_file>
-      </rain> 
+      </rain>
 	</struct_rainfall>
 
 	<struct_detachment>
 		<spl_m>0.5</spl_m>
-    	<spl_n>1.0</spl_n>
-    	<Cerodibility>3.e-6</Cerodibility>
+    <spl_n>1.0</spl_n>
+    <Cerodibility>3.e-6</Cerodibility>
 	</struct_detachment>
-	
-	<!--struct_capacity>
-		<alluvial_lenght>10000</alluvial_lenght>
-		<bedrock_lenght>100000</bedrock_lenght>
-		<stream_erosion>0.3</stream_erosion>
-		<bedrock_sediment_interface>0.</bedrock_sediment_interface>
-	</struct_capacity-->
 
 	<struct_linear_diff>
 		<coef_linear_aerial>0.1</coef_linear_aerial>
