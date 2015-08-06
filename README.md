@@ -49,3 +49,6 @@ A compilation of examples can be found in this <a href='https://github.com/badla
 
 The source code is available on github: <a href='https://github.com/badlands-model/Badlands'>here<a/>
 
+## Stay tuned
+
+News regarding simulations, internships, collaborations and developments associated to Badlands can be found on our [Jekyll Blog](http://badlands-model.github.io).
