@@ -1,8 +1,8 @@
-Compilation of tests and documentation on the use of Badlands
+Badlands
 =====
 
 <div align="center">
-    <img width=400 src="https://github.com/badlands-model/Badlands-doc/blob/master/riseofthephoenix.png" alt="Rise of the Phoenix" title="Example of Landscape evolution with Badlands"</img>
+    <img width=400 src="https://github.com/badlands-model/Badlands-doc/blob/master/figures/riseofthephoenix.png" alt="Rise of the Phoenix" title="Example of Landscape evolution with Badlands"</img>
 </div>
 
 ## Overview
@@ -27,10 +27,25 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 The code is conceived as an open-source project, and is an ideal tool for both **Research** and **Learning** purposes.
 
+## Read the doc!
+
+Installation of the code requires several dependencies and it is more than encouraged to go through the <a href='https://cloudstor.aarnet.edu.au/plus/public.php?service=files&t=814784b0da34eb629c36cdb3b83d0126'>manual<a/> at first. 
+
+## Hands-on examples
+
+A compilation of examples can be found in this <a href='https://github.com/badlands-model/Badlands-doc'>Badlands-doc GitHub repository<a/>
+
+| Planar surface with single outlet| Delta evolution under sea-level fluctuations | Climatic forcing on drainage evolution| 
+| :-------------: |:-------------:|:-------------:| 
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=lORa_EPs15Y" target="_blank"><img src="http://img.youtube.com/vi/lORa_EPs15Y/0.jpg" alt="Planar surface with single outlet" width="240" height="180" border="10" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=nX0EDM2-oTc" target="_blank"><img src="http://img.youtube.com/vi/nX0EDM2-oTc/0.jpg" alt="Delta evolution under sea-level fluctuations" width="240" height="180" border="10" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=2ibm8I1GvT8" target="_blank"><img src="http://img.youtube.com/vi/2ibm8I1GvT8/0.jpg" alt="Climatic forcing on drainage evolution" width="240" height="180" border="10" /></a> |
+| execution 30s 2 CPUs |execution 240s 2 CPUs|execution 620s 2 CPUs|
+
+| High-resolution depression filling model | 3D Tectonic forcing and drainage evolution| Landscape evolution over continental scale | 
+| :-------------: |:-------------:|:-------------:| 
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=R16jZ2VT-ik" target="_blank"><img src="http://img.youtube.com/vi/R16jZ2VT-ik/0.jpg" alt="High-resolution depression filling model" width="240" height="180" border="10" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=20Z92nnnpQY" target="_blank"><img src="http://img.youtube.com/vi/20Z92nnnpQY/0.jpg" alt="3D Tectonic forcing and drainage evolution" width="240" height="180" border="10" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ke2c9Ybb6LM" target="_blank"><img src="http://img.youtube.com/vi/ke2c9Ybb6LM/0.jpg" alt="Landscape evolution over continental scale" width="240" height="180" border="10" /></a> |
+| execution 1h 2 CPUs |execution 22h 32 CPUs|execution 4h 16 CPUs|
+
 ## Getting the source code
 
 The source code is available on github: <a href='https://github.com/badlands-model/Badlands'>here<a/>
 
-## Read the doc!
-
-Installation of the code requires several dependencies and it is more than encouraged to go through the <a href='https://cloudstor.aarnet.edu.au/plus/public.php?service=files&t=814784b0da34eb629c36cdb3b83d0126'>manual<a/> at first. 
