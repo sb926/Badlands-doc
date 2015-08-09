@@ -26,7 +26,6 @@
 		<time_start>0.</time_start>
 		<time_end>50000000.</time_end>
 		<display_interval>50000.</display_interval>
-		<!--limit_step>1</limit_step-->
 	</struct_time>
 
 	<struct_geodyn>
