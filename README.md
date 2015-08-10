@@ -39,7 +39,7 @@ If you come accross a bug or if you need some help compiling or using the code [
 
 ## Read the doc!
 
-Installation of the code requires several dependencies and it is more than encouraged to go through the <a href='https://cloudstor.aarnet.edu.au/plus/public.php?service=files&t=814784b0da34eb629c36cdb3b83d0126'>manual<a/> at first. 
+Installation of the code requires several dependencies and it is more than encouraged to go through the <a href='https://cloudstor.aarnet.edu.au/plus/index.php/s/czcs134ykfUTW5F'>manual<a/> at first. 
 
 ## Hands-on examples
 
