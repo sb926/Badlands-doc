@@ -34,6 +34,13 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 The code is conceived as an open-source project, and is an ideal tool for both **Research** and **Learning** purposes.
 
+### CSDMS QR-code 
+
+**Badlands** is downloadable from the **Community Surface Dynamic Modeling System** [wiki](http://csdms.colorado.edu/wiki/Model:Badlands)
+<div>
+    <img width=100 src="http://csdms.colorado.edu/mediawiki/images/Qrcode_Badlands.png" alt="QR-code" title="QR-code"</img>
+</div>
+
 ### Reporting  
 
 If you come accross a bug or if you need some help compiling or using the code [drop us a line](badlandsmodel@gmail.com).
